@@ -21,3 +21,4 @@ date | trim | APR | term | end date | source URL
 2026-11-19 | Model Y Premium | 2.49% | 2026-10-23 | https://teslanorth.com/2026/10/23/tesla-model-y-apr-increase-us
 2026-11-20 | Model Y Premium | 2.49% | 2026-10-23 | https://teslanorth.com/2026/10/23/tesla-model-y-apr-increase-us
 2026-11-21 | Model Y Premium | 2.49% | 2026-10-23 | https://teslanorth.com/2026/10/23/tesla-model-y-apr-increase-us
+2026-11-22 | Model Y Premium | 2.49% | 2026-10-23 | https://teslanorth.com/2026/10/23/tesla-model-y-apr-increase-us
